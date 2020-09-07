@@ -13,7 +13,7 @@ description: "I'm Erin!"
 type : "about"
 ---
 
-Hello! I am Erin Psajdl and I am currently finishing up a Master's Program in Sports Data Analytics at the University of Oklahoma - where I also completed a Bachelor's of Business Administration in Sports Management with a minor in Finance. In addition to writing a thesis on Fourth Down Strategy in the NFL, I also serve as a Data Analytics Graduate Assistant for the Women's Basketball Team here at OU. 
+Hello! I am Erin Psajdl & I am currently finishing up a Master's Program in Sports Data Analytics at the University of Oklahoma - where I also completed a Bachelor's of Business Administration in Sports Management with a minor in Finance. In addition to writing a thesis on Fourth Down Strategy in the NFL, I also serve as a Data Analytics Graduate Assistant for the Women's Basketball Team here at OU. 
 
 Professionally, I have a wide range of sports industry experience, from the University of Oklahoma Athletic Department to the Oklahoma City Thunder to the National Football League. Despite my broad background, I have always had a true passion for football. Specifically, my areas of interest include player evaluation, in-game strategy, and injury trends. 
 
